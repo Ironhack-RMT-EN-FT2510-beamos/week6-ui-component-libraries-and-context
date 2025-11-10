@@ -22,4 +22,9 @@ function MyNavbar() {
   )
 }
 
+// comments that could be code added or changed from the project
+// another comment
+
 export default MyNavbar
+
+// another comment
